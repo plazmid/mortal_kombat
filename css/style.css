@@ -235,18 +235,23 @@ p {
     padding-bottom: 400px;
     background: url("../img/cover-image.jpg") no-repeat bottom center / 300px;
   }
+
+  .header {
+    padding-bottom: 40px;
+  }
   video {
     display: none;
   }
   .film {
-    padding-top: 2%;
+    padding-top: 0;
   }
   .description {
     font-size: 16px;
     max-width: 333px;
-    margin-bottom: 19px;
     margin: 0 auto;
-    margin-bottom: 30px;
+    margin-bottom: 40px;
+    margin-top: 10px;
+    text-align: center;
   }
   .tags {
     margin-top: 13px;
